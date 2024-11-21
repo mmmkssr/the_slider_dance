@@ -6,6 +6,7 @@ function setup() {
   noCanvas();
   //createCanvas(200,200);
   for (var i = 0; i < 100; i++) {
+    // for(var i = 0; i < 10;i++){}
     sliders[i] = createSlider(0, 255, 50);
   }
 
