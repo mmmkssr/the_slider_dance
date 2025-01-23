@@ -1,6 +1,10 @@
-html, body {
-  margin: 0;
+html,
+body {
+  margin: 3rem;
   padding: 0;
+  align-items: center;
+  justify-content: center;
+  background: #f3b178;
 }
 
 canvas {
